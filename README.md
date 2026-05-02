@@ -352,5 +352,3 @@ More academic than Heilbroner but more complete. Traces the development of econo
 A rigorous critique of neoclassical economics from within the discipline. Keen dismantles the foundations of mainstream micro and macro with technical precision. Not light reading but important for anyone who wants to understand the limits of the dominant framework.
 
 ---
-
-*list is updated irregularly. suggestions via issues.*
